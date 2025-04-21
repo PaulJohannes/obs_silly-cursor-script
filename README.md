@@ -2,7 +2,7 @@ heres a [Preview](https://i.catboy.group/Ze4AwOVxLK)
 
 use [Python 3.6.8](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe)
 
-    pip install pyautogui
+    pip3.6 install pyautogui
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⢤⣤⡤⠴⠦⠤⠤⠤⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
