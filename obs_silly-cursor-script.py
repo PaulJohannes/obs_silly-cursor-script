@@ -5,7 +5,7 @@ import obspython as S
 import time
 import pyautogui
 
-_version_ = "v1.0.0"
+_version_ = "v1.0.1"
 lastX = 0
 lastY = 0
 lastMove = time.time()
